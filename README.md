@@ -5,7 +5,8 @@
 
 ### Ferramentas e tecnologias que aprendi em ambiente de trabalho
 
-Linguagens
+Linguagens:
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" width="80" height="80"/>
 
 Banco de dados:

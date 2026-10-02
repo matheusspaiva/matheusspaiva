@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Full Stack focado em backend, integrações e sistemas corporativos.</p>
+<p align="left">Sou desenvolvedor de software com foco em Backend e Full Stack, trabalhando com Node.js, TypeScript, C#, .NET e React. Tenho experiência no desenvolvimento de APIs, integração de sistemas, bancos de dados e aplicações web, mobile e desktop. Sou formado em Ciência da Computação e estou sempre buscando evoluir tecnicamente e explorar novas tecnologias.</p>
 
 ###
 
